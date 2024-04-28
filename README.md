@@ -1,2 +1,2 @@
 HTML, CSS  
-Link: https://mihtluv.github.io/Shopee/
+Link: https://ntmi2k3.github.io/Shopee/
